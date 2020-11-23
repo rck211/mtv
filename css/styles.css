@@ -119,52 +119,68 @@ h1{
 }
 
 .daisy{
-  display: inline;
+  display: inline-block;
   border-radius: 15%;
-  width: 23%;
   margin-left: 75px;
+  width: 20%;
+}
+
+.daisyhtml{
+  text-align: center;
+  font-size: 
 }
 
 
 .bill{
-  display: inline;
+  display: inline-block;
   border-radius: 15%;
-  width: 18%;
   padding-right: 20px;
   padding-left: 20px;
 }
 
 .carson{
-  display: inline;
+  display: inline-block;
   border-radius: 15%;
-  width: 23%;
+  width: 25%;
 }
 
 .riki{
-  display: inline;
+  display: inline-block;
   border-radius: 15%;
-  width: 23%;
   padding-left: 20px;
+  width: 25%;
 }
 
 .jesse{
+  display: inline-block;
 border-radius: 15%;
 margin-left: 55px;
 width: 24%;
 }
 
 .dre-lover{
+  display: inline-block;
 border-radius: 15%;
 padding-left: 20px;
 margin-left: 15px;
 }
 
 .julie{
+  display: inline-block;
 border-radius: 15%;
 margin-left: 70px;
 }
 
 .duffy{
+  display: inline-block;
 border-radius: 15%;
 margin-left: 85px;
+}
+
+.block{
+  display: inline-block;
+}
+
+.line{
+  border: 4px solid #c11c1c;
 }
